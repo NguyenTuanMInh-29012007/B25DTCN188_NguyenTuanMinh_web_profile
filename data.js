@@ -1,0 +1,30 @@
+window.PROFILE_DATA = {
+  "savedAt": 0,
+  "logo": "images/logo.png",
+  "avatar": "images/avatar.jpg",
+  "name": "Nguyễn Tuấn Minh",
+  "studentId": "B25DTCN188",
+  "className": "D25CQCN01-B",
+  "gender": "Nam",
+  "birthDate": "2007-05-15",
+  "phone": "0987654321",
+  "email": "b25dtcn188@stu.ptit.edu.vn",
+  "school": "Học viện Công nghệ Bưu chính Viễn thông",
+  "address": "122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",
+  "headline": "Sinh viên CNTT - Thực tập sinh Front-end",
+  "bio": "Yêu thích xây dựng những giao diện web gọn gàng, dễ dùng và chạy tốt trên mọi thiết bị.",
+  "jobTitle": "Thực tập sinh Lập trình Web (Front-end)",
+  "jobOrg": "Công ty Cổ phần Công nghệ ABC",
+  "jobPeriod": "Từ 06/2026 đến nay",
+  "jobDesc": "Xây dựng giao diện website bằng HTML, CSS, JavaScript; chuyển thiết kế Figma thành trang responsive; phối hợp với nhóm Back-end để kết nối API và kiểm thử.",
+  "hobbies": [
+    { "icon": "🎮", "name": "Chơi Game", "desc": "Khám phá thế giới ảo, giải trí và thử thách chiến thuật." },
+    { "icon": "🎵", "name": "Nghe nhạc", "desc": "Nhạc lo-fi nhẹ nhàng khi học và lập trình." },
+    { "icon": "⚽", "name": "Chơi bóng đá", "desc": "Đá bóng cùng bạn bè cuối tuần để rèn sức khỏe." },
+    { "icon": "📷", "name": "Chụp ảnh", "desc": "Ghi lại những khoảnh khắc đẹp trong cuộc sống." },
+    { "icon": "✈️", "name": "Du lịch", "desc": "Khám phá vùng đất mới, văn hóa và ẩm thực địa phương." }
+  ],
+  "facebook": "https://www.facebook.com/",
+  "zalo": "https://zalo.me/",
+  "github": "https://github.com/"
+};
